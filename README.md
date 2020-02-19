@@ -1,5 +1,4 @@
-## Yandex dialogs alice skill: repeat patter  
-## (Повторение скороговорок)
+## Yandex dialogs alice skill: repeat patter
 Framework apps list:  
 https://dialogs.yandex.ru/store
 
@@ -39,6 +38,7 @@ alter table log convert to character set utf8mb4 collate utf8mb4_unicode_ci;
 
 exit
 
-pip install pandas```
+pip install pandas```  
+
 ### Result
 ![result](./images/photo_2020-02-19_22-50-40.jpg)
