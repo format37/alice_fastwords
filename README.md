@@ -1,17 +1,18 @@
-# Yandex dialogs alice skill: repeat patter (Повторение скороговорок)
+### Yandex dialogs alice skill: repeat patter  
+### (Повторение скороговорок)
 - Framework apps list:  
 https://dialogs.yandex.ru/store
 
-# VPS cloud yandex
+### VPS cloud yandex
 Get an vps with dialogs image  
 https://yandex.ru/dev/dialogs/alice/doc/deploy-ycloud-docpage/
 
-# SSL
-If you feel stuck with SSL, just buy SSL and install them with the guide below:
+### SSL
+If you feel stuck with SSL, just buy SSL and install them with the guide below:  
 https://www.reg.ru/support/ssl-sertifikaty/ustanovka-ssl-sertifikata/ustanovka-ssl-sertifikata-na-nginx
 
-# Installation
-sudo su
+### Installation
+<sudo su
 su -
 source /srv/alice-buy-elephant/alice/bin/activate
 python3 -m pip install PyMySQL
@@ -38,7 +39,6 @@ alter table log convert to character set utf8mb4 collate utf8mb4_unicode_ci;
 
 exit
 
-pip install pandas
-
-# Result
+pip install pandas>
+### Result
 ![result](./images/photo_2020-02-19_22-50-40.jpg)
