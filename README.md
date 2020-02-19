@@ -12,7 +12,7 @@ If you feel stuck with SSL, just buy SSL and install them with the guide below:
 https://www.reg.ru/support/ssl-sertifikaty/ustanovka-ssl-sertifikata/ustanovka-ssl-sertifikata-na-nginx
 
 ### Installation
-'''sudo su
+```sudo su
 su -
 source /srv/alice-buy-elephant/alice/bin/activate
 python3 -m pip install PyMySQL
@@ -39,6 +39,6 @@ alter table log convert to character set utf8mb4 collate utf8mb4_unicode_ci;
 
 exit
 
-pip install pandas'''
+pip install pandas```
 ### Result
 ![result](./images/photo_2020-02-19_22-50-40.jpg)
