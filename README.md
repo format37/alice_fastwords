@@ -1,5 +1,9 @@
 ## Yandex dialogs alice skill: repeat patter
-Framework apps list:  
+
+### Result
+![result](./images/photo_2020-02-19_22-50-40.jpg)
+
+Other apps list for example:
 https://dialogs.yandex.ru/store
 
 ### VPS cloud yandex
@@ -39,6 +43,3 @@ alter table log convert to character set utf8mb4 collate utf8mb4_unicode_ci;
 exit
 
 pip install pandas```  
-
-### Result
-![result](./images/photo_2020-02-19_22-50-40.jpg)
