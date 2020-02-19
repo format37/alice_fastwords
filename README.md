@@ -1,9 +1,9 @@
 # Yandex dialogs alice skill: repeat patter (Повторение скороговорок)
-- Framework apps list:
+- Framework apps list:  
 https://dialogs.yandex.ru/store
 
 # VPS cloud yandex
-Get an vps with dialogs image
+Get an vps with dialogs image  
 https://yandex.ru/dev/dialogs/alice/doc/deploy-ycloud-docpage/
 
 # SSL
