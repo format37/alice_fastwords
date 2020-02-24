@@ -15,12 +15,12 @@ If you feel stuck with SSL, just buy SSL and install them with the guide below:
 https://www.reg.ru/support/ssl-sertifikaty/ustanovka-ssl-sertifikata/ustanovka-ssl-sertifikata-na-nginx
 
 ### Mount yandex cloud to local path
-1. At local PC in path ./ssh generate key
+1. At local PC in path ./ssh generate key  
 ```ssh-keygen -t rsa -C "alex@pc"```
-2. At remote cloud machine, create public key as file, and add authorized keys:
+2. At remote cloud machine, create public key as file, and add authorized keys:  
 ```cat id_rsa.pub >> ~/.ssh/authorized_keys```
 3. After that you can connect from local machine by ssh.  
-4. Mount drive:
+4. Mount drive:  
 ```sudo sshfs -o allow_other,IdentityFile=/home/alex/.ssh/id_rsa alex@CloudMachineExternalIp:/ /mnt/fastwords/```
 
 ### Installation
