@@ -3,8 +3,8 @@
 ### Result
 ![result](./images/photo_2020-02-19_22-50-40.jpg)
 
-Other apps list for example:
-https://dialogs.yandex.ru/store
+Dialog link:
+https://dialogs.yandex.ru/store/skills/c13341d9-povtorenie-skorogovorok
 
 ### VPS cloud yandex
 Get an vps with dialogs image  
